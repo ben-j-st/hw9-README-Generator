@@ -1,0 +1,22 @@
+{
+  "name": "hw9-readme-generator",
+  "version": "1.0.0",
+  "description": "a good readme generater with node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ben-j-st/hw9-README-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ben-j-st/hw9-README-Generator/issues"
+  },
+  "homepage": "https://github.com/ben-j-st/hw9-README-Generator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.0"
+  }
+}
