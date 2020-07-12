@@ -1,7 +1,7 @@
 # Title  
 
     
-![license badge](https://img.shields.io/badge/licence-MIT-yellow)
+<div style="text-align: right">![license badge](https://img.shields.io/badge/licence-MIT-yellow)</div>
 
 ## Description 
 
@@ -32,6 +32,6 @@ MIT
 
 ## Questions
 
-ben-j-st
+Github Username: ben-j-st
 
-ben_j_stephens@hotmail.com
+Email: ben_j_stephens@hotmail.com
