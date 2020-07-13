@@ -148,7 +148,7 @@ promptUser()
 
         const README = generateReadMe(answers)
 
-        writeFileAsync("README-demo.md", README)
+        writeFileAsync("README.md", README)
     })
     .then(function () {
         console.log("README.md was successfully created")

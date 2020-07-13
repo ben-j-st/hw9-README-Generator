@@ -19,7 +19,19 @@ this is the readme for a readme generator, using node.js and some npm packages, 
 
 ## Installation
 
-user will need to run npm i  inqurer, so they can use it to generate the prompted question 
+step 1 - user will need to clone down the repo into a desired folder using: git clone 
+    on this address https://github.com/ben-j-st/hw9-README-Generator.git
+
+step 2 - user will need to use the code: npm i  
+    to install all dependencies listed in the package.json file
+
+step 3 - user can then run the file from terminal on there index.js file by using the code:
+    node index.js 
+    
+step 4 - answer the question to have a readme file generated based on the responses to the question 
+
+step 5 - happiness and not writing readme's from scratch
+
 
 ## Usage
 
