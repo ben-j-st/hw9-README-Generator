@@ -59,14 +59,6 @@ Email: ben_j_stephens@hotmail.com
 
 ## Screenshot 
 
-![screenshot](assets/images/readme.PNG)
+click on the image to be taken to the walkthrough video 
 
-## Walk through Video 
-
-<!-- <iframe src="" width="640" height="480"></iframe> -->
-
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://drive.google.com/file/d/1EW-khpbN5OIwe5NYnfh3E86urBOlzfiU/preview" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
+![screenshot](assets/images/readme.PNG) (https://drive.google.com/file/d/1EW-khpbN5OIwe5NYnfh3E86urBOlzfiU/view)
