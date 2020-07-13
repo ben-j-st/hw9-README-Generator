@@ -14,6 +14,7 @@ const boost = "A simple permissive license only requiring preservation of copyri
 const unlicenced = "A license with no conditions whatsoever which dedicates works to the public domain. Unlicensed works, modifications, and larger works may be distributed under different terms and without source code. see full licence https://choosealicense.com/licenses/unlicense/ for more info visit https://unlicense.org"
 
 let licenceText = ""
+
 function promptUser() {
     return inquirer
         .prompt([
@@ -68,27 +69,6 @@ function promptUser() {
             },
         ])
 }
-
-
-// {
-//     type: "checkbox",
-//     message: "What languages do you know?",
-//     name: "stack",
-//     choices: [
-//     "HTML", 
-//     "CSS", 
-//     "JavaScript", 
-//     "MySQL"
-//     ]
-// },
-
-"MIT",
-    "GNU AGPLv3",
-    "Mozilla Public License 2.0",
-    "Apache License 2.0",
-    "Boost Software License 1.0",
-    "The Unlicense"
-
 
 function generateReadMe(answers) {
     const test = answers.licence
@@ -157,21 +137,6 @@ Github Username: <a href="https://github.com/${answers.github}">${answers.github
 
 Email: ${answers.email}`
 }
-
-
-// title of your project - DONE
-// Description - DONE
-// Table of Contents - in string literal - 
-// Installation - anything the user needs to know regarding what to install -
-// Usage
-// License
-// Contributing
-// Tests
-// Questions - need link to github profile - and email
-
-
-
-
 
 promptUser()
     .then(function (answers) {
