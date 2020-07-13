@@ -59,8 +59,14 @@ Email: ben_j_stephens@hotmail.com
 
 ## Screenshot 
 
-![screenshot](assests\images\readme.PNG)
+![screenshot](assets\images\readme.PNG)
 
-## Walkthrough Video 
+## Walk through Video 
 
-<iframe src="https://drive.google.com/file/d/1EW-khpbN5OIwe5NYnfh3E86urBOlzfiU/preview" width="640" height="480"></iframe>
+<!-- <iframe src="" width="640" height="480"></iframe> -->
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://drive.google.com/file/d/1EW-khpbN5OIwe5NYnfh3E86urBOlzfiU/preview" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
