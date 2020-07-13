@@ -135,7 +135,12 @@ ${answers.tests}
 
 Github Username: <a href="https://github.com/${answers.github}">${answers.github}</a>
 
-Email: ${answers.email}`
+Email: ${answers.email}
+
+
+## Screenshot 
+
+![alt name](file location)`
 }
 
 promptUser()
