@@ -1,7 +1,7 @@
 # Title  
 
     
-<p align="right">`![license badge](https://img.shields.io/badge/licence-MIT-yellow)`</p>
+<div align="right">`![license badge](https://img.shields.io/badge/licence-MIT-yellow)`</div>
 
 ## Description 
 
