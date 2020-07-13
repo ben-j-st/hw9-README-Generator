@@ -61,4 +61,9 @@ Email: ben_j_stephens@hotmail.com
 
 click on the image to be taken to the walkthrough video 
 
-![screenshot](assets/images/readme.PNG) (https://drive.google.com/file/d/1EW-khpbN5OIwe5NYnfh3E86urBOlzfiU/view)
+![screenshot](assets/images/readme.PNG) 
+
+
+## Walk through Video
+
+(https://drive.google.com/file/d/1EW-khpbN5OIwe5NYnfh3E86urBOlzfiU/view)
