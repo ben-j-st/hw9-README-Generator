@@ -16,6 +16,8 @@ this is the readme for a readme generator, using node.js and some npm packages, 
 * [Contributing](#Contributing)
 * [Tests](#Tests)
 * [Questions](#Questions)
+* [Screenshot](#Screenshot)
+* [Walkthrough](#Walkthrough)
 
 ## Installation
 
@@ -64,6 +66,6 @@ click on the image to be taken to the walkthrough video
 ![screenshot](assets/images/readme.PNG) 
 
 
-## Walk through Video
+## Walkthrough Video
 
 <a target="_blank" href="https://drive.google.com/file/d/1EW-khpbN5OIwe5NYnfh3E86urBOlzfiU/view">application video</a>
