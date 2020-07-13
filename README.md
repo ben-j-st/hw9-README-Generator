@@ -17,7 +17,7 @@ this is the readme for a readme generator, using node.js and some npm packages, 
 * [Tests](#Tests)
 * [Questions](#Questions)
 * [Screenshot](#Screenshot)
-* [Walkthrough](#Walkthrough)
+* [Walkthrough](#Walkthrough-video)
 
 ## Installation
 
@@ -64,8 +64,6 @@ Email: ben_j_stephens@hotmail.com
 click on the image to be taken to the walkthrough video 
 
 ![screenshot](assets/images/readme.PNG) 
-
-<a name="#Walkthrough"></a>
 
 ## Walkthrough Video 
 
