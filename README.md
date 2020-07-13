@@ -66,4 +66,4 @@ click on the image to be taken to the walkthrough video
 
 ## Walk through Video
 
-(https://drive.google.com/file/d/1EW-khpbN5OIwe5NYnfh3E86urBOlzfiU/view)
+https://drive.google.com/file/d/1EW-khpbN5OIwe5NYnfh3E86urBOlzfiU/view
