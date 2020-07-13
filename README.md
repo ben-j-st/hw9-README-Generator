@@ -33,7 +33,7 @@ A short and simple permissive license with conditions only requiring preservatio
 
 ## Contributing 
 
-was built based on specifications from trilligoy 
+was built based on specifications from trilogy 
 
 ## Tests
 
