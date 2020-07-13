@@ -65,7 +65,7 @@ click on the image to be taken to the walkthrough video
 
 ![screenshot](assets/images/readme.PNG) 
 
-
-## Walkthrough Video
+<a name="#Walkthrough">
+## Walkthrough Video 
 
 <a target="_blank" href="https://drive.google.com/file/d/1EW-khpbN5OIwe5NYnfh3E86urBOlzfiU/view">application video</a>
