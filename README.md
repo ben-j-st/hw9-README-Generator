@@ -59,7 +59,7 @@ Email: ben_j_stephens@hotmail.com
 
 ## Screenshot 
 
-![screenshot](assets\images\readme.PNG)
+![screenshot](assets/images/readme.PNG)
 
 ## Walk through Video 
 
