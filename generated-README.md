@@ -9,13 +9,13 @@
 
 ## Table of Contents
 
-[Description](#description)
-[Installation](#Installation)
-[Usage](#Usage)
-[Licence](#Licence)
-[Contributing](#Contributing)
-[ Tests ](#Tests)
-[ Questions ](#Questions)
+1. [Description](#Description)
+2. [Installation](#Installation)
+3. [Usage](#Usage)
+4. [Licence](#Licence)
+5. [Contributing](#Contributing)
+6. [Tests](#Tests)
+7. [Questions](#Questions)
 
 ## Installation
 
